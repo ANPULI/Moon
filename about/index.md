@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Anpu Li
+tags: [about, Anpu Li]
 date: 2019-12-15
 comments: false
 ---
@@ -36,3 +36,9 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+<center>A student, adventurer, motocycle enthusiast, dog lover</center>
+
+Anpu Li is a senior at New York Univeristy Shanghai. He double majors in Data Science (Finance Concentration) and Computer Science.
+
+He is interested 
