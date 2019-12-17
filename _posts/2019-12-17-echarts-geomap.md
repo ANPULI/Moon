@@ -20,6 +20,14 @@ This is a comprehensive step-by-step tutorial on how to visualize data with ECha
 
 Live Demo of a P2P default geomap: [link](https://honors.anpu.li)
 
+- [Installation &amp; Setup](#installation-amp-setup)
+  - [Install node.js](#install-nodejs)
+  - [Install ECharts](#install-echarts)
+- [Build Your First Visualization: Bar](#build-your-first-visualization-bar)
+  - [Prepare html file](#prepare-html-file)
+  - [Prepare js file](#prepare-js-file)
+  - [Build](#build)
+
 ## Installation & Setup
 
 ### Install node.js
