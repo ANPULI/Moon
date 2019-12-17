@@ -18,7 +18,7 @@ feature: https://user-images.githubusercontent.com/26131764/70916681-0bc62500-20
 
 This is a comprehensive step-by-step tutorial on how to visualize data with ECharts. Special thinks to [Wenhe Li](https://portfolio.steins.live) for the help in website building.
 
-Live Demo of a P2P default geomap: [link](honors.anpu.li)
+Live Demo of a P2P default geomap: [link](https://honors.anpu.li)
 
 ## Installation & Setup
 
