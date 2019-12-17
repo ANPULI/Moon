@@ -2,7 +2,7 @@
 layout: post
 title:  "A Comprehensive Guide to Visualization Using ECharts"
 date:   2019-12-17
-excerpt: "Just about everything you'll need to construct a geomap: package, data, and more."
+excerpt: "Just about everything you'll need to visualize your data with ECharts"
 tag:
 - echarts 
 - visualization
@@ -13,11 +13,12 @@ tag:
 - parcel
 comments: true
 project: true
+feature: https://user-images.githubusercontent.com/26131764/70916681-0bc62500-2057-11ea-87a7-2b49ba113509.png
 ---
 
 This is a comprehensive step-by-step tutorial on how to visualize data with ECharts. Special thinks to [Wenhe Li](https://portfolio.steins.live) for the help in website building.
 
-Live Demo of a P2P default geoma: [link](honors.anpu.li)
+Live Demo of a P2P default geomap: [link](honors.anpu.li)
 
 ## Installation & Setup
 
@@ -51,7 +52,7 @@ npm install --save echarts
 npm install --save-dev parcel
 ```
 
-### Build the First Visualization: Bar
+## Build Your First Visualization: Bar
 
 This section will walk you through a simple bar graph.
 
