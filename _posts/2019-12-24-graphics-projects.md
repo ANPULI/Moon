@@ -12,6 +12,7 @@ tag:
 - npm
 - parcel
 comments: true
+project: true
 feature: https://user-images.githubusercontent.com/26131764/70916681-0bc62500-2057-11ea-87a7-2b49ba113509.png
 ---
 

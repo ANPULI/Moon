@@ -2,7 +2,7 @@
 layout: post
 title: "How to display Chinese in matplotlib"
 date: 2019-12-16
-excerpt: "Solve annoying error codes when plotting."
+excerpt: "Get rid of annoying error codes when plotting."
 tags: [matplotlib, Chinese, font, pandas, dataframe, plotting]
 comments: true
 ---
