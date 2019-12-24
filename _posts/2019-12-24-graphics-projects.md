@@ -119,4 +119,4 @@ This is the list of projects I've done when learning Computer Graphics with Prof
 
 ## Final Project: Go
 
-<iframe width="560" height="315" src="https://youtu.be/1zw4XugF11o" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1zw4XugF11o" frameborder="0"> </iframe>
