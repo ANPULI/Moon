@@ -53,7 +53,7 @@ The potential development includes:
 ## Wave
 
 <figure>
-	<a href="https://graphics.anpu.live/shader1"><img src="https://user-images.githubusercontent.com/26131764/71409053-2ada3d80-267b-11ea-94c9-ba71dbc1811c.png"></a>
+	<a href="https://graphics.anpu.live/shader1"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26131764/71639284-b1f86880-2cae-11ea-80ed-41b85c359fd2.png"></a>
     <center>
 	<figcaption><a href="https://graphics.anpu.live/shader1" title="">1st project that simulates two waves. Click to view</a>.</figcaption>
     </center>
@@ -62,7 +62,7 @@ The potential development includes:
 ## FLAME IN THE DARKNESS
 
 <figure>
-	<a href="https://graphics.anpu.live/shader2"><img src="https://user-images.githubusercontent.com/26131764/71408874-a25b9d00-267a-11ea-9ad9-4103e5c1a3b3.png"></a>
+	<a href="https://graphics.anpu.live/shader2"><img src="https://user-images.githubusercontent.com/26131764/71610434-fb23bc00-2bcb-11ea-9b86-b9a832700ef4.png"></a>
     <center>
 	<figcaption><a href="https://graphics.anpu.live/shader2" title="">2nd project that simulates a burning fire. Click to view</a>.</figcaption>
     </center>
@@ -71,7 +71,7 @@ The potential development includes:
 ## Bump Mapping
 
 <figure>
-	<a href="https://graphics.anpu.live/shader3"><img src="https://user-images.githubusercontent.com/26131764/71410278-8e666a00-267f-11ea-8102-b5ba31fd2541.png"></a>
+	<a href="https://graphics.anpu.live/shader3"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26131764/71639307-1b787700-2caf-11ea-8bd9-e8358496129f.png"></a>
     <center>
 	<figcaption><a href="https://graphics.anpu.live/shader3" title="">3rd project that simulates a planet with its satellite using bump mapping. Click to view</a>.</figcaption>
     </center>
@@ -80,7 +80,7 @@ The potential development includes:
 ## Lights and Spheres
 
 <figure>
-	<a href="https://graphics.anpu.live/shader4"><img src="https://user-images.githubusercontent.com/26131764/71410380-059bfe00-2680-11ea-9f22-66fb58108ba5.png"></a>
+	<a href="https://graphics.anpu.live/shader4"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26131764/71639323-7d38e100-2caf-11ea-869c-13e57fe938f7.png"></a>
     <center>
 	<figcaption><a href="https://graphics.anpu.live/shader4" title="">4th project that shows shadows and reflections in an interactive way. Click to view</a>.</figcaption>
     </center>
@@ -89,7 +89,7 @@ The potential development includes:
 ## Stellated Octahedron
 
 <figure>
-	<a href="https://graphics.anpu.live/shader5"><img src="https://user-images.githubusercontent.com/26131764/71410470-56135b80-2680-11ea-9d80-b6f58568e5af.png"></a>
+	<a href="https://graphics.anpu.live/shader5"><img src="https://user-images.githubusercontent.com/26131764/71639350-f0daee00-2caf-11ea-8b72-712291f3c40e.png"></a>
     <center>
 	<figcaption><a href="https://graphics.anpu.live/shader5" title="">5th project that mimics a stellated octahedron. Click to view</a>.</figcaption>
     </center>
