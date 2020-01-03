@@ -13,4 +13,9 @@ feature: https://user-images.githubusercontent.com/26131764/70916681-0bc62500-20
 
 ---
 
-![P2P Default Incidents by Province](https://user-images.githubusercontent.com/26131764/70916681-0bc62500-2057-11ea-87a7-2b49ba113509.png)
+<figure>
+	<a href="https://honors.anpu.li"><img src="https://user-images.githubusercontent.com/26131764/70916681-0bc62500-2057-11ea-87a7-2b49ba113509.png"></a>
+    <center>
+	<figcaption><a href="https://honors.anpu.li" title="">Visualization of defaults grouped by province. Click to view</a>.</figcaption>
+    </center>
+</figure>
