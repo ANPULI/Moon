@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computer Graphics Projects"
-date:   2019-12-17
+date:   2019-05-20
 excerpt: "A list of projects done in CSCI-UA 480"
 tag:
 - computer graphics
